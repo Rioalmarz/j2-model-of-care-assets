@@ -8,6 +8,7 @@ Below are the raw GitHub links for each image in this repository:
 
 ### Healthcare Programs
 
+- **Chronic**: https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/chronic.jpg
 - **Diabetes**: https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Diabetes.jpg
 - **Dyslipidemia**: https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Dyslipidemia.jpg
 - **Hypertension**: https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Hypertension.jpg
@@ -51,6 +52,7 @@ To use these images in your project, simply copy the raw link and use it in your
 
 | Image Name | Raw Link |
 |------------|----------|
+| chronic.jpg | https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/chronic.jpg |
 | Diabetes.jpg | https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Diabetes.jpg |
 | Dyslipidemia.jpg | https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Dyslipidemia.jpg |
 | Health-coach.jpg | https://raw.githubusercontent.com/Rioalmarz/j2-model-of-care-assets/main/Health-coach.jpg |
